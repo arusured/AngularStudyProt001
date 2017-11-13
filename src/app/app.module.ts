@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { InfoListComponent } from './src/app/info-list/info-list.component';
+import { InfoListComponent } from '../app/info-list/info-list.component';
 
 @NgModule({
   declarations: [
