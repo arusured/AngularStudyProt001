@@ -29,3 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Angular.ioの翻訳↓  
 https://hackmd.io/s/H1nVLGAWG
+
+よそんちのAngular.ioの翻訳
+https://angular.jp/tutorial
